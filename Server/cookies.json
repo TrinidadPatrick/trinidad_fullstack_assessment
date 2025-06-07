@@ -1,0 +1,12 @@
+[
+  {
+    "name": "JSESSIONID",
+    "value": "5396b12c-c92e-4747-af85-9d4a1bb04ca3",
+    "domain": "challenge.sunvoy.com",
+    "path": "/",
+    "expires": 1749364070.774647,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Strict"
+  }
+]
